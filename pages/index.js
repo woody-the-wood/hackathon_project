@@ -29,7 +29,7 @@ export default function Home() {
               Tools Needed
             </Button>
           </Link>
-          <Link href="https://github.com/jstanford2013/ForThePeople">
+          <Link href="https://github.com/jstanford2013/hackathon_project">
             <Button variant="contained">
               Github Link
             </Button>
