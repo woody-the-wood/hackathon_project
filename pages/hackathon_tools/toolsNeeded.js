@@ -19,6 +19,10 @@ export default function ToolsNeeded() {
           <Typography variant="subtitle1">This will be where you actually write your code</Typography>
           <p></p>
 
+          <Typography variant="h5">Github:</Typography>
+          <Typography variant="subtitle1">This is how we will work together in tandem without stepping on each others code</Typography>
+          <p></p>
+
           <Typography variant="h5">Postman:</Typography>
           <Typography variant="subtitle1">This is how you can quickly make a call to any API without writing the full javascript code</Typography>
           <p></p>
@@ -30,7 +34,7 @@ export default function ToolsNeeded() {
           <Typography variant="h5">Discord:</Typography>
           <Typography variant="subtitle1">This is where we will communicate during the hackathon</Typography>
           <p></p>
-          
+
           <Link href="/">
             <Button variant="contained">
               Home
