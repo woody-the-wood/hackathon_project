@@ -13,7 +13,7 @@ export default function ToolsNeeded() {
         <title>Tools Needed</title>
       </Head>
       <Box display="flex" flexDirection="column" justifyContent="center" alignItems="center">
-          <Typography variant="h4">Tools Needed for Development</Typography>
+          <Typography variant="h4">Chimichangas Needed for Development</Typography>
           <p></p>
           <Typography variant="h5">Visual Studio Code:</Typography>
           <Typography variant="subtitle1">This will be where you actually write your code</Typography>
