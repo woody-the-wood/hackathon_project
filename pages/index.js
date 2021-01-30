@@ -15,7 +15,7 @@ export default function Home() {
       </Layout>
       <Box display="flex" flexDirection="column" justifyContent="center" alignItems="center">
           <p>
-            Welcome to the hackathon! Click the buttons below to find instructions on how to get started.
+            Welcome to the hackathon, Johnsons!! Click the buttons below to find instructions on how to get started.
           </p>
           <p></p>
         <Box display="flex" justifyContent="space-evenly" width="45%">
