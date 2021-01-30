@@ -35,6 +35,10 @@ export default function ToolsNeeded() {
           <Typography variant="subtitle1">This is where we will communicate during the hackathon</Typography>
           <p></p>
 
+          <Typography variant="h5">D3 Js:</Typography>
+          <Typography variant="subtitle1">A few visualization tools</Typography>
+          <p></p>
+
           <Link href="/">
             <Button variant="contained">
               Home
